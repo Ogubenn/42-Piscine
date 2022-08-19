@@ -45,10 +45,10 @@ int	main(void)
 {
 	char	*tab[5];
 	tab[0] = "nazli";
-	tab[1] = "seni";
-	tab[2]	= "cok";
-	tab[3] = "fazla";
-	tab[4] = "seviyorum";
+	tab[1] = "tyru";
+	tab[2]	= "tytert";
+	tab[3] = "sadas";
+	tab[4] = "asd";
 	printf("%s", ft_strjoin(5, tab, "ogubenn"));
 	return (0);
 }*/
