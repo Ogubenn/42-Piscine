@@ -6,27 +6,27 @@
  # Table of Content
 | Projects      | Solutions  |
 | :--------------:| :----------:|
-| Shell00 | [85%]
-| Shell01 |  [70%]|
-| C00 | [85%]| 
-| C01 | [100%]| 
-| C02 | [75%]| 
-| C03 |  [100%]| 
-| C04 |  [70%]| 
-| C05 | [80%]| 
-| C06 | [100%]| 
-| C07 |  [60%]| 
-| C08 | [100%]|
-| C09 |  [100%]| 
-| C10 | [Fail]| 
-| C11 | [Fail]| 
-| C12 |  [Fail]| 
-| C13 | [Fail]| 
-| Exam00| [64%]
-| Exam01| [32%]
-| Exam02 |[28%]
-| Exam03 | [48%]| 
-| Rush01 | [Fail]|
-| Rush00 | [Fail] |
-| Rush02 | [Fail] |
-| BSQ |  [Fail] |
+| Shell00 | [85%] :heavy_check_mark:
+| Shell01 |  [70%]:heavy_check_mark:|
+| C00 | [85%]:heavy_check_mark:| 
+| C01 | [100%]:heavy_check_mark:| 
+| C02 | [75%]:heavy_check_mark:| 
+| C03 |  [100%]:heavy_check_mark:| 
+| C04 |  [70%]:heavy_check_mark:| 
+| C05 | [80%]:heavy_check_mark:| 
+| C06 | [100%]:heavy_check_mark:| 
+| C07 |  [60%]:heavy_check_mark:| 
+| C08 | [100%]:heavy_check_mark:|
+| C09 |  [100%]:heavy_check_mark:| 
+| C10 | [0%]:heavy_multiplication_x: |
+| C11 | [0%] :heavy_multiplication_x: |
+| C12 |  [0%] :heavy_multiplication_x: |
+| C13 | [0%] :heavy_multiplication_x: |
+| Exam00| [64%]:heavy_check_mark:
+| Exam01| [32%]:heavy_check_mark:
+| Exam02 |[28%]:heavy_check_mark:
+| Exam03 | [48%]:heavy_check_mark:| 
+| Rush01 | [0%] :heavy_multiplication_x:|
+| Rush00 | [0%]  :heavy_multiplication_x:|
+| Rush02 | [0%]  :heavy_multiplication_x:|
+| BSQ |  [0%]  :heavy_multiplication_x:|
