@@ -27,3 +27,5 @@
 | Rush00 | [Fail] |
 | Rush02 | [Fail] |
 | BSQ |  [Fail] |
+
+![alt text](https://imgyukle.com/f/2022/08/19/nrCHqI.png)
