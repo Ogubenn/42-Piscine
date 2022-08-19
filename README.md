@@ -1,5 +1,8 @@
 # 42-Piscine
 
+![alt text](https://imgyukle.com/f/2022/08/19/nrCHqI.png)
+
+
  # Table of Content
 | Projects      | Solutions  |
 | :--------------:| :----------:|
@@ -27,5 +30,3 @@
 | Rush00 | [Fail] |
 | Rush02 | [Fail] |
 | BSQ |  [Fail] |
-
-![alt text](https://imgyukle.com/f/2022/08/19/nrCHqI.png)
