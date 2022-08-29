@@ -26,7 +26,7 @@
 | Exam01| [32%]:heavy_check_mark:
 | Exam02 |[28%]:heavy_check_mark:
 | Exam03 | [48%]:heavy_check_mark:| 
-| Rush01 | [0%] :heavy_multiplication_x:|
-| Rush00 | [0%]  :heavy_multiplication_x:|
+| Rush00 | [0%] :heavy_multiplication_x:|
+| Rush01 | [0%]  :heavy_multiplication_x:|
 | Rush02 | [0%]  :heavy_multiplication_x:|
 | BSQ |  [0%]  :heavy_multiplication_x:|
